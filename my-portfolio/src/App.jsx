@@ -34,7 +34,7 @@ function App() {
           </h1>
 
           <h2>
-            Information Technology Student
+            IT Student | Front-End Developer| Entry-Level Cybersecurity| Graphic Designer.
           </h2>
 
           <p className="description">
